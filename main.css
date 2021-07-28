@@ -47,6 +47,8 @@ img.profile-pic {
 	margin: 0 auto;
 	position: relative;
 	height: 100%;
+	object-fit: contain;
+
 }
 
 .row {
@@ -58,6 +60,8 @@ img.profile-pic {
 	position: relative;
 	height: 100%;
 	width: 100%;
+	object-fit: contain;
+
 }
 
 .col {
